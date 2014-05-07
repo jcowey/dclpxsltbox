@@ -67,6 +67,44 @@
    </teiHeader>
    <text>
       <body>
+            <head>
+                <seg type="original" subtype="TM_nr" resp="#LDAB">59446</seg>
+                <seg type="original" subtype="LDAB_id" resp="#LDAB">545</seg>
+                <seg type="original" subtype="Catalogues" resp="#LDAB">Gigante 1038</seg>
+                <seg type="original" subtype="Nestle-Aland" resp="#LDAB"></seg>
+                <seg type="original" subtype="Publication" resp="#LDAB">Herculanensium voluminum Collectio altera (VH2) 5 p. 22-25 (1865; image)</seg>
+                <seg type="original" subtype="Other_publications" resp="#LDAB"></seg>
+                <seg type="original" subtype="Authorname" resp="#LDAB">Chrysippus</seg>
+                <seg type="original" subtype="Book" resp="#LDAB"> peri pronoias 02 with title</seg>
+                <seg type="original" subtype="Quotations" resp="#LDAB"></seg>
+                <seg type="original" subtype="Attested_Authors" resp="#LDAB">Chrysippus, De providentia 02 with title (1. Direct attestation)</seg>
+                <seg type="original" subtype="Provenance" resp="#LDAB">Italy, Campania - Herculaneum (Ercolano) [found]
+                    Italy (?) [written]</seg>
+                <seg type="original" subtype="Inventory" resp="#LDAB">Naples, Biblioteca Nazionale 108471/1026</seg>
+                <seg type="original" subtype="Century" resp="#LDAB"> BC02 BC01 AD01</seg>
+                <seg type="original" subtype="Date" resp="#LDAB"> BC 199 - AD 79</seg>
+                <seg type="original" subtype="Material" resp="#LDAB">papyrus</seg>
+                <seg type="original" subtype="Bookform" resp="#LDAB">roll</seg>
+                <seg type="original" subtype="Recto-verso" resp="#LDAB">Ro</seg>
+                <seg type="original" subtype="Back" resp="#LDAB"></seg>
+                <seg type="original" subtype="Reuse" resp="#LDAB"></seg>
+                <seg type="original" subtype="Columns" resp="#LDAB">0</seg>
+                <seg type="original" subtype="Pagination" resp="#LDAB">0</seg>
+                <seg type="original" subtype="Language_script" resp="#LDAB">Greek</seg>
+                <seg type="original" subtype="Script_type" resp="#LDAB"></seg>
+                <seg type="original" subtype="Culture" resp="#LDAB">literature</seg>
+                <seg type="original" subtype="Genre" resp="#LDAB"> prose, philosophy</seg>
+                <seg type="original" subtype="Religion" resp="#LDAB">classical</seg>
+                <seg type="original" subtype="Bibliography" resp="#LDAB"></seg>
+                <seg type="original" subtype="Stud_Paleo_Gr" resp="#LDAB"></seg>
+                <seg type="original" subtype="Stud_Literature" resp="#LDAB"></seg>
+                <seg type="original" subtype="Photo" resp="#LDAB"></seg>
+                <seg type="original" subtype="URL" resp="#LDAB"></seg>
+                <seg type="original" subtype="HGV" resp="#LDAB"></seg>
+                <seg type="original" subtype="Library" resp="#LDAB"> Pisones, Herculaneum</seg>
+                <seg type="original" subtype="Number_of_lines" resp="#LDAB"></seg>
+                <seg type="original" subtype="Note" resp="#LDAB"></seg>
+            </head>
          <div type="bibliography" subtype="referenceEdition">
             <listBibl>
                <bibl type="publication"
